@@ -1,20 +1,24 @@
 # Verilog Study
 
-This repository contains my Verilog HDL study files and digital logic implementations.
+This repository contains my Verilog HDL study files and digital logic projects.
 
-## Topics
+## Roadmap
 
-- Verilog basics
-- Combinational circuits
-- Sequential circuits
-- Finite state machines
+- Verilog Basics
+- Combinational Logic
+- Sequential Logic
+- Finite State Machines (FSM)
 - Memory
-- Register files
+- Register Files
+- FIFO
+- Stack
 - ALU
+- FSM-Controlled ALU Datapath
 
-## Tools
+## Development Environment
 
 - Visual Studio Code
 - Icarus Verilog
 - GTKWave
-- ModelSim
+- ModelSim (optional)
+
