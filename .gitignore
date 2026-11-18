@@ -1,0 +1,30 @@
+
+# Icarus Verilog simulation output
+*.vvp
+*.vcd
+*.fst
+*.lxt
+*.lx2
+
+# Build and simulation directories
+build/
+sim/
+output/
+
+# Waveform viewer files
+*.gtkw.bak
+
+# Vivado generated files
+.Xil/
+*.jou
+*.log
+*.str
+*.cache/
+*.runs/
+*.sim/
+*.gen/
+
+# Editor and OS
+.vscode/
+.DS_Store
+Thumbs.db
